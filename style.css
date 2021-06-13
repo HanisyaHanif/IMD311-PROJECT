@@ -1,0 +1,61 @@
+p
+{
+text-align: center; 
+color: 234F35; 
+font-family: arial 
+}
+
+h1
+{
+text-align: center;
+color: 2a9d8f
+}
+
+div {
+  border: single;
+  border-color: black;
+  background:#f2e8db;
+}
+
+body { 
+ background-image:url(https://th.bing.com/th/id/R488aae5bf2a25eefb9fd949f46d89d53?rik=%2fvO3JVXtyqnPUw&riu=http%3a%2f%2flifeliketouring.com%2fwp-content%2fuploads%2f2015%2f10%2fpaint-strokes-wallpaper-3728-3947-hd-wallpapers-pink-paint-perth.jpg&ehk=WHYx%2f%2f2Rv90NI2TGQ%2bbpdfOvGiaWMzF6Aw1xMcbBWKs%3d&risl=&pid=ImgRaw);background-position:top center; background-attachment:fixed;
+margin:0;
+}
+
+table, th, td { 
+ border: 2px solid pink; 
+ text-align: center; 
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2e8db;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #f2e8db;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #f2e8db;
+  color: black;
+}
+
+[contenteditable] {
+  outline: 2px solid pink
+}
+
